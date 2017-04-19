@@ -36,9 +36,9 @@ This project contains two different scraping scripts:
 * `nobelscraper` scraping the information described in section "Extracted information"
 
 ## How to use it
-First make sure you have [Python](https://www.python.org/downloads/), [pip](https://pip.pypa.io/en/stable/installing/) and Scrapy (use 'pip install Scrapy') installed.
+First make sure you have [Python](https://www.python.org/downloads/), [pip](https://pip.pypa.io/en/stable/installing/) and Scrapy (use `pip install Scrapy`) installed.
 You might have to install [Visual C++ 2015 Build Tools](http://landinghub.visualstudio.com/visual-cpp-build-tools) if you are working on Windows.
-Now open 'cmd' if you are working on Windows and navigate to your spider
+Now open `cmd` if you are working on Windows and navigate to your spider
 
 ```
 cd <path to your folder>\nobelprize\nobelprize\spiders
